@@ -1,0 +1,12 @@
+C:\Users\jonny\RiderProjects\Lab07\Calculations\bin\Debug\net6.0\Calculations.deps.json
+C:\Users\jonny\RiderProjects\Lab07\Calculations\bin\Debug\net6.0\Calculations.dll
+C:\Users\jonny\RiderProjects\Lab07\Calculations\bin\Debug\net6.0\Calculations.pdb
+C:\Users\jonny\RiderProjects\Lab07\Calculations\obj\Debug\net6.0\Calculations.csproj.AssemblyReference.cache
+C:\Users\jonny\RiderProjects\Lab07\Calculations\obj\Debug\net6.0\Calculations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonny\RiderProjects\Lab07\Calculations\obj\Debug\net6.0\Calculations.AssemblyInfoInputs.cache
+C:\Users\jonny\RiderProjects\Lab07\Calculations\obj\Debug\net6.0\Calculations.AssemblyInfo.cs
+C:\Users\jonny\RiderProjects\Lab07\Calculations\obj\Debug\net6.0\Calculations.csproj.CoreCompileInputs.cache
+C:\Users\jonny\RiderProjects\Lab07\Calculations\obj\Debug\net6.0\Calculations.dll
+C:\Users\jonny\RiderProjects\Lab07\Calculations\obj\Debug\net6.0\refint\Calculations.dll
+C:\Users\jonny\RiderProjects\Lab07\Calculations\obj\Debug\net6.0\Calculations.pdb
+C:\Users\jonny\RiderProjects\Lab07\Calculations\obj\Debug\net6.0\ref\Calculations.dll
